@@ -1,0 +1,4 @@
+# Jangan mengunggah arsip ZIP lokal atau file dokumentasi pengembangan
+*.zip
+.DS_Store
+Thumbs.db
